@@ -3,4 +3,4 @@ Web scraping tools i have developed to collect data from different sites. These 
 
 ## Python Library Requirements:
 - requests
-- [BeautifulSoup] (https://pypi.org/project/beautifulsoup4/)
+- [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
